@@ -1,3 +1,9 @@
+// Muhammed Karataş    
+// 2420161109    
+//https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=xr4tNKo0y6
+
+
+
 #include <stdio.h>
 
 /* ================= İKİLİ ARAMA ================= */
