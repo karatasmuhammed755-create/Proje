@@ -1,9 +1,11 @@
+#include <stdio.h>
+
+
 // Muhammed Karataş    
 // 2420161109    
 //https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=xr4tNKo0y6
 
 
-#include <stdio.h>
 
 int ikili_arama(int dizi[], int BOYUT, int search, int ilk_ind, int son_ind) {
     int orta_ind = (ilk_ind + son_ind) / 2;
